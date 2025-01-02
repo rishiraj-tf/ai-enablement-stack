@@ -1013,6 +1013,14 @@
               "logo": "./public/images/morph.svg",
               "link": "https://www.morph.ai/",
               "hidden": "true"
+            },
+            {
+              "name": "Coworked",
+              "description": "Coworked created Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.",
+              "logo": "./public/images/coworked.svg",
+              "link": "https://coworked.ai/",
+              "github": "",
+              "x": "@coworkedai"
             }
           ]
         },
