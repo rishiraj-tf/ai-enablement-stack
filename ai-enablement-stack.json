@@ -787,6 +787,15 @@
               "link": "https://www.stack-ai.com/",
               "github": "",
               "x": "@StackAI_HQ"
+            },
+            {
+              "name": "Truefoundry",
+              "description": "TrueFoundry is a self-hosted Platform as a Service (PaaS) to build compound AI applications in a faster, scalable, cost-efficient way with right governance controls.",
+              "logo": "./public/images/truefoundry.png",
+              "zoom": "",
+              "link": "https://www.truefoundry.com/",
+              "github": "",
+              "x": "@truefoundry"
             }
           ]
         },
