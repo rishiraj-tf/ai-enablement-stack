@@ -49,6 +49,20 @@
           ]
         },
         {
+          "name": "Data Ingestion & Transformation",
+          "description": "Services for preparing data for AI applications and training",
+          "companies": [
+            {
+              "name": "Confluent",
+              "description": "Confluent is a cloud-native data streaming platform that helps companies access, store, and manage data to bring real-time, contextual, highly governed and trustworthy data to your AI systems and applications.",
+              "logo": "./public/images/confluent.png",
+              "link": "https://confluent.io/",
+              "github": "https://github.com/confluentinc",
+              "x": "@confluentinc"
+            }
+          ]
+        },
+        {
           "name": "Model Access & Deployment",
           "description": "Services for deploying and running AI models",
           "companies": [
@@ -327,7 +341,7 @@
               "name": "TaskWeaver",
               "description": "A framework for creating and managing workflows and tasks for AI agents.",
               "logo": "",
-               "link":"https://microsoft.github.io/TaskWeaver/",
+              "link": "https://microsoft.github.io/TaskWeaver/",
               "github": "https://github.com/microsoft/TaskWeaver"
             },
             {
@@ -481,6 +495,14 @@
               "x": "@timescaledb"
             },
             {
+              "name": "FalkorDB",
+              "description": "FalkorDB provides a graph database platform optimized for AI applications, featuring GraphRAG technology for knowledge graph creation, sub-millisecond querying, and advanced relationship modeling, enabling more accurate and contextual LLM responses through graph-based data relationships.",
+              "logo": "./public/images/falkordb.svg",
+              "link": "https://falkordb.com/",
+              "github": "https://github.com/FalkorDB/falkordb",
+              "x": "@FalkorDB"
+            },
+            {
               "name": "Superduper",
               "description": "Superduper provides a platform for building and deploying AI applications directly with existing databases, featuring integration with multiple AI frameworks and databases, support for RAG, vector search, and ML workflows, while enabling deployment on existing infrastructure without data movement or ETL pipelines.",
               "logo": "./public/images/superduper.png",
@@ -601,6 +623,22 @@
           "description": "Development utilities, libraries and services for building AI applications",
           "companies": [
             {
+              "name": "CopilotKit",
+              "description": "CopilotKit is an open-source framework for building custom AI copilots and assistants into any application. Features include In-App AI Chatbot, Generative UI, Copilot Tasks, and RAG capabilities, with easy integration and full customization options.",
+              "logo": "./public/images/copilot-kit.png",
+              "link": "https://copilotkit.ai/",
+              "github": "https://github.com/CopilotKit/CopilotKit",
+              "x": "@CopilotKit"
+            },
+            {
+              "name": "Ant Design X",
+              "description": "Ant Design X is a brand new AGI component library from Ant Design, designed to help developers more easily develop AI product user interfaces. Building on Ant Design, Ant Design X further expands the design specifications for AI products, offering developers more powerful tools and resources.",
+              "logo": "./public/images/ant-design-x.svg",
+              "link": "https://x.ant.design/",
+              "github": "https://github.com/ant-design/x",
+              "x": "@AntDesignUI"
+            },
+            {
               "name": "Relevance AI",
               "description": "Relevance AI provides a no-code AI workforce platform that enables businesses to build, customize, and manage AI agents and tools for various functions like sales and support, featuring Bosh, their AI Sales Agent, while ensuring enterprise-grade security and compliance.",
               "logo": "./public/images/relevanceai.svg",
@@ -677,6 +715,14 @@
           "name": "Testing & Quality Assurance",
           "description": "Systems for validating AI performance and reliability",
           "companies": [
+            {
+              "name": "Adaline",
+              "description": "Adaline is the single platform to iterate, evalute, deploy, and monitor prompts for your LLM applications.",
+              "logo": "./public/images/adaline.png",
+              "link": "https://adaline.ai/",
+              "github": "https://github.com/adaline",
+              "x": "@adalinewastaken"
+            },
             {
               "name": "LangSmith",
               "description": "",
@@ -807,7 +853,7 @@
               "description": "",
               "logo": "",
               "link": "https://pydantic.dev/logfire",
-              "github":"https://github.com/pydantic/logfire"
+              "github": "https://github.com/pydantic/logfire"
             },
             {
               "name": "Cleanlab",
@@ -1005,6 +1051,14 @@
               "logo": "./public/images/morph.svg",
               "link": "https://www.morph.ai/",
               "hidden": "true"
+            },
+            {
+              "name": "Coworked",
+              "description": "Coworked created Harmony, the most comprehensive AI Project Manager coworker, designed to work as a teammate that enhances project management capacity, streamlines execution, and enables teams to deliver complex projects with greater efficiency and confidence.",
+              "logo": "./public/images/coworked.svg",
+              "link": "https://coworked.ai/",
+              "github": "",
+              "x": "@coworkedai"
             }
           ]
         },
